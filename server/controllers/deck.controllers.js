@@ -1,7 +1,7 @@
 const {Deck} = require('../models/deck.models');
 
 module.exports.findAll = (req, res) => {
-    Deck.find()
+    Deck.find().sort({topic: 1})
         .then(data => res.json({ results: data }))
         .catch(err => res.json({ message: 'Something went wrong', error: err }));
 }
