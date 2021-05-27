@@ -1,0 +1,39 @@
+h1 {
+    margin-left: 10%;
+    color: #f0ede4;
+}
+
+.decksubject {
+    margin-right: 5%;
+    margin-bottom: 2%;
+}
+
+table {
+    max-height: 30%;
+    overflow: auto;
+}
+
+.newdeck {
+    margin-top: 10%;
+    margin-left: 10%;
+    background-color: #3ccfcf;
+    color: #f0ede4;
+    width: 28%;
+    text-align: center;
+}
+
+.tablebackground {
+    background-color: #f0ede4;
+    margin-top: 10%;
+}
+
+.headerbackground {
+    background-color: #4257b2;
+}
+
+.deckheader {
+    background-color: #3ccfcf;
+    width: 21%;
+    text-align: right;
+    float: right;
+}

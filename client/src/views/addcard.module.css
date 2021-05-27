@@ -1,0 +1,30 @@
+.headerbackground {
+    background-color: #4257b2;
+}
+
+.headermargin {
+    margin-left: 35%;
+}
+
+.cardcounter {
+    margin-top: 10%;
+    float: right;
+    margin-right: 10%;
+    color: #f0ede4;
+    background-color: #3ccfcf;
+}
+
+.studylink {
+    margin-top: 25%;
+    float: right;
+    color: bisque;
+}
+
+.homebutton {
+    margin-left: 75%;
+    margin-top: 10%;
+}
+
+.formmargin {
+    margin-top: 15%;
+}

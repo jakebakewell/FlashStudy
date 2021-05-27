@@ -1,0 +1,83 @@
+.leftarrow {
+    margin-right: 1%;
+    width: 5%;
+    height: 5%;
+    cursor: pointer;
+}
+
+.rightarrow {
+    margin-left: 1%;
+    width: 5%;
+    height: 5%;
+    cursor: pointer;
+}
+
+.headerbackground {
+    background-color: #4257b2;
+}
+
+.headermargin {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.createdby {
+    margin-top: 1%;
+    margin-left: 15%;
+}
+
+.homebutton {
+    margin-left: 75%;
+    margin-top: 10%;
+}
+
+.progresscount {
+    float: right;
+    margin-right: 20%;
+    margin-top: -2%;
+}
+
+.cardsdiv {
+    margin-top: 5%;
+    margin-right: -15%;
+}
+
+.cards {
+    margin-right: 2%;
+    margin-top: -5%;
+    margin-left: 2%;
+    background-color: whitesmoke;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 8%;
+    padding-right: 8%;
+    width: 35%;
+    height: 25%;
+}
+
+.chatbox {
+    width: 20%;
+    margin-left: -0.5%;
+    margin-top: 1%;
+    margin-bottom: -35%;
+}
+
+.chatdiv {
+    width: 40%;
+    padding: 2%;
+    max-height: 20rem;
+    min-height: 20rem;
+    overflow: auto;
+}
+
+.joinbutton {
+    width: 10%;
+}
+
+.chatcontainer {
+    padding-top: 10%;
+}
+
+.bluemessage {
+    margin-left: 50%;
+}
